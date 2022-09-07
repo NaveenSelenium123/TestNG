@@ -55,6 +55,7 @@ public void GmailNavigate() throws IOException {
 	test.log(LogStatus.PASS,test.addScreenCapture(captureScreen(driver)) +"title1");
 	
 }
+@Test
 public static String  captureScreen(WebDriver driver) throws IOException {
 	File scrfile=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 	File Destinationfile=new File("src/../images"+System.currentTimeMillis()+".png");
