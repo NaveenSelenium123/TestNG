@@ -2,16 +2,16 @@
 <testng-results skipped="3" failed="1" ignored="0" total="6" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="55" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+  <suite name="Suite" duration-ms="51" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="55" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+    <test name="Test" duration-ms="51" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
       <class name="Auto_Unknown.Demo">
-        <test-method status="PASS" signature="tc1()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc1" duration-ms="7" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc1" duration-ms="6" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
-        <test-method status="SKIP" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="3" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+        <test-method status="SKIP" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="4" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -54,7 +54,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc2 -->
-        <test-method status="SKIP" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="4" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+        <test-method status="SKIP" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="1" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -97,7 +97,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc2 -->
-        <test-method status="SKIP" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="1" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+        <test-method status="SKIP" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="1" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -140,7 +140,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc2 -->
-        <test-method status="FAIL" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="1" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+        <test-method status="FAIL" signature="tc2()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc2" duration-ms="0" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -183,7 +183,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc2 -->
-        <test-method status="PASS" signature="tc3()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc3" duration-ms="5" started-at="2022-09-07T10:48:57Z" finished-at="2022-09-07T10:48:57Z">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:Auto_Unknown.Demo@6a4f787b]" name="tc3" duration-ms="1" started-at="2022-09-07T10:55:19Z" finished-at="2022-09-07T10:55:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc3 -->
