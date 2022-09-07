@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2022-09-03T03:24:56Z" finished-at="2022-09-03T03:24:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2022-09-03T03:24:56Z" finished-at="2022-09-03T03:24:56Z">
+      <class name="org.com.Sample">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.com.Sample@5622fdf]" name="beforeClass" is-config="true" duration-ms="4" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.com.Sample@5622fdf]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.com.Sample@5622fdf]" name="tc1" duration-ms="8" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.com.Sample@5622fdf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.com.Sample@5622fdf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.com.Sample@5622fdf]" name="tc2" duration-ms="0" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.com.Sample@5622fdf]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.com.Sample@5622fdf]" name="afterClass" is-config="true" duration-ms="8" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.com.Sample@5622fdf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.com.Sample@5622fdf]" name="tc3" duration-ms="0" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.com.Sample@5622fdf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-09-03T08:54:56Z" finished-at="2022-09-03T08:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.com.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
