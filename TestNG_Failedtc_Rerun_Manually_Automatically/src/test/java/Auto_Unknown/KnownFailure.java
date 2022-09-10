@@ -4,7 +4,7 @@ import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
 
 public class KnownFailure implements IRetryAnalyzer {
-    int min=0,max=3;
+    int min=0,max=5;
 	public boolean retry(ITestResult result) {
 		if(min < max) {
 			min++;

@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18471" started-at="2022-09-07T10:11:20Z" finished-at="2022-09-07T10:11:39Z">
+  <suite name="Default suite" duration-ms="22839" started-at="2022-09-09T04:55:35Z" finished-at="2022-09-09T04:55:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18471" started-at="2022-09-07T10:11:20Z" finished-at="2022-09-07T10:11:39Z">
-      <class name="org.com.SampleReport_ScreenShot">
-        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.com.SampleReport_ScreenShot@66a3ffec]" name="browserLaunch" is-config="true" duration-ms="9771" started-at="2022-09-07T15:41:20Z" finished-at="2022-09-07T15:41:30Z">
+    <test name="Default test" duration-ms="22839" started-at="2022-09-09T04:55:35Z" finished-at="2022-09-09T04:55:58Z">
+      <class name="org.com.SampleReport">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.com.SampleReport@66a3ffec]" name="browserLaunch" is-config="true" duration-ms="13876" started-at="2022-09-09T10:25:35Z" finished-at="2022-09-09T10:25:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method status="PASS" signature="GmailNavigate()[pri:0, instance:org.com.SampleReport_ScreenShot@66a3ffec]" name="GmailNavigate" duration-ms="5740" started-at="2022-09-07T15:41:30Z" finished-at="2022-09-07T15:41:36Z">
+        <test-method status="PASS" signature="GmailNavigate()[pri:0, instance:org.com.SampleReport@66a3ffec]" name="GmailNavigate" duration-ms="6297" started-at="2022-09-09T10:25:49Z" finished-at="2022-09-09T10:25:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GmailNavigate -->
-        <test-method status="PASS" signature="ValidateTitl()[pri:0, instance:org.com.SampleReport_ScreenShot@66a3ffec]" name="ValidateTitl" duration-ms="10" started-at="2022-09-07T15:41:36Z" finished-at="2022-09-07T15:41:36Z">
+        <test-method status="PASS" signature="ValidateTitl()[pri:0, instance:org.com.SampleReport@66a3ffec]" name="ValidateTitl" duration-ms="7" started-at="2022-09-09T10:25:55Z" finished-at="2022-09-09T10:25:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidateTitl -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.com.SampleReport_ScreenShot@66a3ffec]" name="tearDown" is-config="true" duration-ms="2928" started-at="2022-09-07T15:41:36Z" finished-at="2022-09-07T15:41:39Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.com.SampleReport@66a3ffec]" name="tearDown" is-config="true" duration-ms="2634" started-at="2022-09-09T10:25:55Z" finished-at="2022-09-09T10:25:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- org.com.SampleReport_ScreenShot -->
+      </class> <!-- org.com.SampleReport -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

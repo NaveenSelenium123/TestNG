@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="9" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2022-09-10T04:29:45Z" finished-at="2022-09-10T04:29:45Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="SampleTest.tc2()[pri:0, instance:dataProvider.SampleTest@343f4d3d]" name="tc2" class="dataProvider.SampleTest"/>
+        <method signature="SampleTest1.tc2()[pri:0, instance:dataProvider.SampleTest1@42e26948]" name="tc2" class="dataProvider.SampleTest1"/>
+        <method signature="SampleTest2.tc2()[pri:0, instance:dataProvider.SampleTest2@57baeedf]" name="tc2" class="dataProvider.SampleTest2"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2022-09-10T04:29:45Z" finished-at="2022-09-10T04:29:45Z">
+      <class name="dataProvider.SampleTest">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:dataProvider.SampleTest@343f4d3d]" name="tc2" duration-ms="1" started-at="2022-09-10T04:29:45Z" finished-at="2022-09-10T04:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- dataProvider.SampleTest -->
+      <class name="dataProvider.SampleTest2">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:dataProvider.SampleTest2@57baeedf]" name="tc2" duration-ms="1" started-at="2022-09-10T04:29:45Z" finished-at="2022-09-10T04:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- dataProvider.SampleTest2 -->
+      <class name="dataProvider.SampleTest1">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:dataProvider.SampleTest1@42e26948]" name="tc2" duration-ms="7" started-at="2022-09-10T04:29:45Z" finished-at="2022-09-10T04:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- dataProvider.SampleTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
