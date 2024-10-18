@@ -12,6 +12,16 @@ public class Sample {
 	@BeforeClass
 	public void beforeClass() {
 		System.out.println("Browser launch--------");
+
+		System.out.println("Browser launch--------");
+		System.out.println("Browser launch--------");
+
+		System.out.println("Browser launch--------");
+
+		System.out.println("Browser launch--------");
+		System.out.println("Browser launch--------");
+
+		System.out.println("Browser launch--------");
 	}
 	@AfterClass
 	public void afterClass() {
